@@ -1,0 +1,10 @@
+ DEMO APLIKASI
+
+Pegawai/User:
+- Email : swidodo.com@gmail.com
+- Password : 123456
+
+Admin
+- localhost/absensi-v5/sw-admin
+- User : Widodo
+- Password : 123456
