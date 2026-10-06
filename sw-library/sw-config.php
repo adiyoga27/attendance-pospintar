@@ -3,7 +3,7 @@ error_reporting(0);
 // -------------- Koneksi Database ------------
 $DB_HOST 	= 'localhost';
 $DB_USER 	= 'pospintar_attendance'; // User Database
-$DB_PASSWD  = '440008af5ce6f'; // Password Database
+$DB_PASSWD  = '8e7be58db6486'; // Password Database
 $DB_NAME 	= 'pospintar_attendance'; // Nama database
 // -------------- Koneksi Database ------------
 @define("DB_HOST", $DB_HOST);
